@@ -1,3 +1,4 @@
+from math import sqrt
 from unittest import TestCase
 from stats import variance, stdev
 
